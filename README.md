@@ -7,7 +7,7 @@ nowadays, i spend most of my time in typescript full stack land, with a lot of r
 
 i've solved fun problems with great people at these places, and more! :tm: 👁️ 👄 👁️ ✨✨  🍟 🥚 🛒 🐶 🐱 🎹
 
-[![rythm.fm](https://avatars.githubusercontent.com/u/58737358?s=50&v=4)](https://github.com/rythmfm)
+[![rythm.fm](https://avatars.githubusercontent.com/u/58737358?s=50&v=4)](https://github.com/rythmfm) 
 [![top.gg](https://avatars.githubusercontent.com/u/34552786?s=50&v=4)](https://github.com/top-gg)
 [![medal](https://avatars.githubusercontent.com/u/67680737?s=50&v=4)](https://github.com/medaltv) [![GS](https://avatars.githubusercontent.com/u/1268489?s=50&v=4)](https://github.com/goldmansachs) [![dealerinspire](https://avatars.githubusercontent.com/u/33764464?s=50&v=4)](https://github.com/dealerinspire) [![nugl](https://avatars.githubusercontent.com/u/45509768?s=50&v=4)](https://github.com/nugl)
 
@@ -23,4 +23,4 @@ These guys are found in China, Japan, Korea, Taiwan, and Vietnam. They live in a
 
 ### _Salvelinus alpinus_
 `Bleikja, Arctic char`
-These are cold-water fish in the family Salmonidae.  They live in alpine lakes and (really excitingly!) Arctic / subarctic coastal waters.  There are a ton of different variations on these and they're really widespread. A neat variety of these live in Iceland and can really rarely be found in Silfra! Oh, and there is also a smaller sub-species (Dwarf Char) that is also found in the fissure more commonly!
+These are cold-water fish in the family Salmonidae.  They live in alpine lakes and (really excitingly!) Arctic / subarctic coastal waters.  There are a ton of different variations on these and they're really widespread. A neat variety of these live in Iceland and can really rarely be found in Silfra! Oh, and there is also a smaller sub-species (Dwarf Char) that is found in the fissure more commonly!  They're so neat.
