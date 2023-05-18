@@ -1,7 +1,7 @@
 # hi, i'm cassie!!
 
-i've been working on varying software / web development projects since 2010 and i still haven't created a personal website. :'3  
-nowadays, i spend most of my time in typescript full stack land, with a lot of react. my pronouns are she/her.
+i've been working on various software / web development projects since 2010 and i still haven't created a personal website. :'3  
+nowadays, i spend most of my time in typescript full stack land, with a lot of react.  🏳️‍🌈 🏳️‍⚧️ 🏴‍☠️
 
 ## work!
 
