@@ -11,6 +11,8 @@ i've solved fun problems with great people at these places, and more! :tm: ðŸ‘ï
 [![top.gg](https://avatars.githubusercontent.com/u/34552786?s=50&v=4)](https://github.com/top-gg)
 [![medal](https://avatars.githubusercontent.com/u/67680737?s=50&v=4)](https://github.com/medaltv) [![GS](https://avatars.githubusercontent.com/u/1268489?s=50&v=4)](https://github.com/goldmansachs) [![dealerinspire](https://avatars.githubusercontent.com/u/33764464?s=50&v=4)](https://github.com/dealerinspire) [![nugl](https://avatars.githubusercontent.com/u/45509768?s=50&v=4)](https://github.com/nugl)
 
+i also [passive-aggressively annoyed some microsoft devs](https://github.com/microsoft/vscode/pull/58324) over the span of two years into supporting minimap opacity in vscode >:'3c
+
 ## here are some fun facts about some creatures i love!
  
 ### _Oryzias latipes_ 
