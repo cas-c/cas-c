@@ -22,5 +22,5 @@ This fish makes its home in slow-moving streams, rice paddies, ponds, and pretty
 These guys are found in China, Japan, Korea, Taiwan, and Vietnam. They live in and snack on camellia, but most interestlingly, they have tiny needles that look like hairs and carry toxins.  Touching them can cause rashes, dizziness, and nausea.  These hairs and toxins exist all throughout the lifespan, from the adult, to the larvae, to their eggs and discarded molts.  The caterpillar form is fluffy looking and similar to non-poisonous caterpillars, so they're kind of toxic and bad news all through their lives.
 
 ### _Salvelinus alpinus_
-`Bleikja, Arctic char`
+`Bleikja, Arctic char`  
 These are cold-water fish in the family Salmonidae.  They live in alpine lakes and (really excitingly!) Arctic / subarctic coastal waters.  There are a ton of different variations on these and they're really widespread. A neat variety of these live in Iceland and can really rarely be found in Silfra! Oh, and there is also a smaller sub-species (Dwarf Char) that is found in the fissure more commonly!  They're so neat.
